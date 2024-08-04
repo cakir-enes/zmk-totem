@@ -93,7 +93,7 @@ label= "COLEMAKDH"                         ;
           &kp Q         &kp W       &kp E         &kp R         &kp T             &kp Y         &kp U         &kp I         &kp O    &kp P
           &kp A         &kp S        &kp D         &kp F          &kp G            &kp H         &kp J         &kp K         &kp L   &kp SEMI
     &kp Q  &kp Z         &kp X        &kp C         &kp V         &kp B             &kp N         &kp M         &kp COMMA   &kp DOT  &kp SLASH &kp P
-                                     &kp LALT       &kp LGUI   &kp SPC       &kp RGUI      &kp RALT      &lt ADJ RCTL
+                                     &lt ADJ LALT       &kp LGUI   &kp SPC       &kp RGUI      &kp RALT      &lt ADJ RCTL
                         >;
                 };
 
